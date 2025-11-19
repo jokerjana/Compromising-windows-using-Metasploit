@@ -104,6 +104,9 @@ On the target Windows machine, open a Web browser and open this URL, replacing t
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 On kali give the command exploit
+<img width="792" height="362" alt="Screenshot 2025-11-19 073556" src="https://github.com/user-attachments/assets/5ddd68e0-9f73-407d-8e70-6cd593238775" />
+<img width="777" height="322" alt="Screenshot 2025-11-19 073605" src="https://github.com/user-attachments/assets/84b160dd-27ca-4111-8356-22e44d13ff9f" />
+
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
